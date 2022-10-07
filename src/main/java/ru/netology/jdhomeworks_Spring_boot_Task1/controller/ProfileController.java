@@ -3,7 +3,7 @@ package ru.netology.jdhomeworks_Spring_boot_Task1.controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import systemProfile.SystemProfile;
+import ru.netology.jdhomeworks_Spring_boot_Task1.systemProfile.SystemProfile;
 
 @RestController
 @RequestMapping("/")
